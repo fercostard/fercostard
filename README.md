@@ -1,4 +1,9 @@
 ## Bem-vindo(a) ao perfil do Fernando Costa 😁
+## 👋 Bem-vindo(a) ao perfil do Fernando Costa
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fercostard&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)](https://github.com/fercostard)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fercostard&layout=compact&langs_count=8&theme=tokyonight)](https://github.com/fercostard)
 
  <div>
    <a href="https://github.com/fercostard">
